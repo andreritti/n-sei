@@ -62,7 +62,7 @@ height: 50%;
 }
 
 .container:hover {
-    transform: rotateY(360deg);
+    transform: rotateY(180deg);
     
 }
 .container:hover .resposta {
